@@ -7,10 +7,7 @@ for i in list:
     print("String to upper=",i.upper())
     print("String start with ",ch1,':',i.startswith(ch1))
 
-#check=lambda s,list:s.startswith(list)
-#print("String Convert into upper case =",up(list))
-#print("Check String Start With =",ch1,":",check(list,ch1))
-
+#o/p=
 #Enter a Character to check=r
 #original list= ram
 #String to upper= RAM
